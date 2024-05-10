@@ -42,6 +42,7 @@ Below is the illustrated architecture
     bin/elasticsearch
     ```
     and 
+    
     ``̀
     bin/kibana
     ```
