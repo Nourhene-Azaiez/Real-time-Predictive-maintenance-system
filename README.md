@@ -36,13 +36,16 @@ Below is the illustrated architecture
     ```
     ~/kafka/bin/zookeeper-server-start.sh ~/kafka/config/zookeeper.properties
     ~/kafka/bin/kafka-server-start.sh ~/kafka/config/server.properties
+
     ```
     - Open the elasticsearch and kibana servers by running the 
-    ``̀
-    bin/elasticsearch
+
     ```
-    and 
-    
+    bin/elasticsearch
+
+    ```
+    - and 
+
     ``̀
     bin/kibana
     ```
