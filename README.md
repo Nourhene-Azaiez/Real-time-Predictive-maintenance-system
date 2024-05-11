@@ -48,6 +48,7 @@ Below is the illustrated architecture
 
     ``̀
     bin/kibana
+    
     ```
     commands in order and respectively in the elasticsearch and kibana folders. 
 - Open the localhost on port 5601 and go to the following path: http://localhost:5601/app/management/kibana/objects
