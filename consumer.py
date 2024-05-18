@@ -27,7 +27,7 @@ if __name__ == "__main__":
     kafka_params = {
         "kafka.bootstrap.servers": "localhost:9092",
         "subscribe": "machineindus",
-        
+        "failOnDataLoss":"false",
     }
 
     # Read data from Kafka topic as a DataFrame
