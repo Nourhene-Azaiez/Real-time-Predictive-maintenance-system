@@ -73,7 +73,7 @@ The dashborad is automatically updated every 10 seconds to provide the most accu
 
 ## Contributors
 <a href="https://github.com/Nourhene-Azaiez/Real-time-Predictive-maintenance-system/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Nourhene-Azaiez/Real-Time-flight-into-data-pipeline" />
+    <img src="https://contrib.rocks/image?repo=Nourhene-Azaiez/Real-time-Predictive-maintenance-system" />
   
 </a>
 
