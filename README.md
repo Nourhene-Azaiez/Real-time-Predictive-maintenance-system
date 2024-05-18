@@ -38,7 +38,15 @@ Below is the illustrated architecture
     ~/kafka/bin/kafka-server-start.sh ~/kafka/config/server.properties
 
     ```
-    
+  - In your project terminal, launch the kafka Producer and the park consummer in different shells as follows:
+    ```
+    python3 producer.py
+    ```
+  and
+  ```
+  
+  ```
+  ## How to launch kibana dashboard
     - Open the elasticsearch and kibana servers by running the
       
 
@@ -53,3 +61,5 @@ Below is the illustrated architecture
     commands in order and respectively in the elasticsearch and kibana folders. 
 - Open the localhost on port 5601 and go to the following path: http://localhost:5601/app/management/kibana/objects
 - Import the export.ndjson file to kibana and open the dashboard named "system de maintenance industriel"
+You can now visuaize the data in real time.
+Pictures of the dashboard in the next sectio.
