@@ -42,10 +42,12 @@ Below is the illustrated architecture
     ```
     python3 producer.py
     ```
-  and
-  ```
-  
-  ```
+    and
+    ```
+    spark-submit --class consumer --total-executor-cores 4 --executor-memory 2g --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.2.4,org.elasticsearch:elasticsearch-spark-30_2.12:8.8.2,commons-httpclient:commons-httpclient:3.1 consumer.py>out.txt
+    ```
+    Your session should be open and ready to consume data from the relative topic.
+
   ## How to launch kibana dashboard
     - Open the elasticsearch and kibana servers by running the
       
@@ -62,4 +64,8 @@ Below is the illustrated architecture
 - Open the localhost on port 5601 and go to the following path: http://localhost:5601/app/management/kibana/objects
 - Import the export.ndjson file to kibana and open the dashboard named "system de maintenance industriel"
 You can now visuaize the data in real time.
-Pictures of the dashboard in the next sectio.
+Pictures of the dashboard in the next section.
+## Final result
+![Architecture](/images/result.png)
+The above picture represents the different diagrams that relate to the current state of the industrial machines.
+The dashborad is automatically updated every 10 seconds to provide the most accurate and efficient analytics of machines' state.
