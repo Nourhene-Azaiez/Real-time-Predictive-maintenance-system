@@ -69,3 +69,11 @@ Pictures of the dashboard in the next section.
 ![Architecture](/images/result.png)
 The above picture represents the different diagrams that relate to the current state of the industrial machines.
 The dashborad is automatically updated every 10 seconds to provide the most accurate and efficient analytics of machines' state.
+
+
+## Contributors
+<a href="https://github.com/Nourhene-Azaiez/Real-time-Predictive-maintenance-system/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Nourhene-Azaiez/Real-Time-flight-into-data-pipeline" />
+  
+</a>
+
