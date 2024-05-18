@@ -38,12 +38,14 @@ Below is the illustrated architecture
     ~/kafka/bin/kafka-server-start.sh ~/kafka/config/server.properties
 
     ```
-    - Open the elasticsearch and kibana servers by running the 
+    
+    - Open the elasticsearch and kibana servers by running the
+      
 
     ```
     bin/elasticsearch
-
     ```
+    
     - and 
 
     ``̀
