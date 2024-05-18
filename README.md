@@ -49,6 +49,7 @@ Below is the illustrated architecture
     - and 
 
     ``̀
+
     bin/kibana
     
     ```
