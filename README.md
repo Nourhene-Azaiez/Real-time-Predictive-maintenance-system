@@ -71,7 +71,7 @@ The above picture represents the different diagrams that relate to the current s
 The dashborad is automatically updated every 10 seconds to provide the most accurate and efficient analytics of machines' state.
 
 
-## Contributors
+## Collaborators
 <a href="https://github.com/Nourhene-Azaiez/Real-time-Predictive-maintenance-system/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=Nourhene-Azaiez/Real-time-Predictive-maintenance-system" />
   
