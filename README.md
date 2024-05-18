@@ -45,11 +45,9 @@ Below is the illustrated architecture
     ```
     bin/elasticsearch
     ```
-    
-    - and 
+    and
 
-    ``̀
-
+    ```
     bin/kibana
     ```
     commands in order and respectively in the elasticsearch and kibana folders. 
