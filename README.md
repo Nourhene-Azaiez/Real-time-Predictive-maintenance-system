@@ -42,7 +42,7 @@ Below is the illustrated architecture
     ```
     python3 producer.py
     ```
-    and
+  - and finaly to start spark
     ```
     spark-submit --class consumer --total-executor-cores 4 --executor-memory 2g --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.2.4,org.elasticsearch:elasticsearch-spark-30_2.12:8.8.2,commons-httpclient:commons-httpclient:3.1 consumer.py>out.txt
     ```
