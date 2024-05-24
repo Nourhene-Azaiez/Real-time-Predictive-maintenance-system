@@ -63,7 +63,7 @@ Below is the illustrated architecture
     commands in order and respectively in the elasticsearch and kibana folders. 
 - Open the localhost on port 5601 and go to the following path: http://localhost:5601/app/management/kibana/objects
 - Import the export.ndjson file to kibana and open the dashboard named "system de maintenance industriel"
-You can now visuaize the data in real time.
+You can now visuaize data in real time.
 Pictures of the dashboard in the next section.
 ## Final result
 ![Architecture](/images/result.png)
